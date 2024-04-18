@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\A7GUI\bin\Debug\net8.0-windows\A7GUI.exe
+C:\Users\user\source\repos\A7GUI\bin\Debug\net8.0-windows\A7GUI.deps.json
+C:\Users\user\source\repos\A7GUI\bin\Debug\net8.0-windows\A7GUI.runtimeconfig.json
+C:\Users\user\source\repos\A7GUI\bin\Debug\net8.0-windows\A7GUI.dll
+C:\Users\user\source\repos\A7GUI\bin\Debug\net8.0-windows\A7GUI.pdb
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.Form1.resources
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.Properties.Resources.resources
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.AssemblyInfo.cs
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.dll
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\refint\A7GUI.dll
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.pdb
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\A7GUI.genruntimeconfig.cache
+C:\Users\user\source\repos\A7GUI\obj\Debug\net8.0-windows\ref\A7GUI.dll
