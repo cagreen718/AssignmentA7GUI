@@ -78,80 +78,81 @@ namespace A7GUI
             foreach (string s in mon)
             {
                 comboBox1.Items.Add(s);
+                if (comboBox1.SelectedText == "January")
+                {
+                    txtElectric.Text = JanEld;
+                    txtAverage.Text = JanAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "Febuarary")
+                {
+                    txtElectric.Text = FebEld;
+                    txtAverage.Text = FebAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "March")
+                {
+                    txtElectric.Text = MarEld;
+                    txtAverage.Text = MarAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "April")
+                {
+                    txtElectric.Text = AprEld;
+                    txtAverage.Text = AprAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "May")
+                {
+                    txtElectric.Text = MayEld;
+                    txtAverage.Text = MayAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "June")
+                {
+                    txtElectric.Text = JunEld;
+                    txtAverage.Text = JunAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "July")
+                {
+                    txtElectric.Text = JulEld;
+                    txtAverage.Text = JulAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "August")
+                {
+                    txtElectric.Text = AugEld;
+                    txtAverage.Text = AugAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "September")
+                {
+                    txtElectric.Text = SeptEld;
+                    txtAverage.Text = SeptAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "October")
+                {
+                    txtElectric.Text = OctEld;
+                    txtAverage.Text = OctAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "November")
+                {
+                    txtElectric.Text = NovEld;
+                    txtAverage.Text = NovAvg;
+                    txtMost.Text = mosMon;
+                }
+                if (comboBox1.SelectedText == "December")
+                {
+                    txtElectric.Text = DecEld;
+                    txtAverage.Text = DecAvg;
+                    txtMost.Text = mosMon;
+                }
             }
 
-            if(comboBox1.SelectedIndex ==1)
-            {
-                txtElectric.Text= JanEld;
-                txtAverage.Text = JanAvg;
-                txtMost.Text = mosMon;
-            }    
-            if (comboBox1.SelectedIndex == 1)
-            {
-                txtElectric.Text = FebEld;
-                txtAverage.Text = FebAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 2)
-            {
-                txtElectric.Text = MarEld;
-                txtAverage.Text = MarAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 3)
-            {
-                txtElectric.Text = AprEld;
-                txtAverage.Text = AprAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 4)
-            {
-                txtElectric.Text = MayEld;
-                txtAverage.Text = MayAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 5)
-            {
-                txtElectric.Text = JunEld;
-                txtAverage.Text = JunAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 6)
-            {
-                txtElectric.Text = JulEld;
-                txtAverage.Text = JulAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 7)
-            {
-                txtElectric.Text = AugEld;
-                txtAverage.Text = AugAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 8)
-            {
-                txtElectric.Text = SeptEld;
-                txtAverage.Text = SeptAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 9)
-            {
-                txtElectric.Text = OctEld;
-                txtAverage.Text = OctAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 10)
-            {
-                txtElectric.Text = NovEld;
-                txtAverage.Text = NovAvg;
-                txtMost.Text = mosMon;
-            }
-            if (comboBox1.SelectedIndex == 11)
-            {
-                txtElectric.Text = DecEld;
-                txtAverage.Text = DecAvg;
-                txtMost.Text = mosMon;
-            }
+            
         }
     }
 }
